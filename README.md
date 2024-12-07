@@ -1,4 +1,4 @@
-# M2REMAP
+# DOME
 This repository contains the code and data for "DOME: Directional Medical Embedding Vectors from Electronic Health Records"
 
 
