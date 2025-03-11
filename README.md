@@ -14,6 +14,6 @@ We introduce DirectiOnal Medical Embedding (DOME) vectors, which resolve those i
 
 # Usage
 ```sh
-  1. python PPMI.py
-  2. python assym_word_embed.py
+  1. python PPMI.py  # for creating the PPMI matrix based on tcooccurrence matrix;
+  2. python assym_word_embed.py  # for generating the directional medical embedding vectors
 ```
